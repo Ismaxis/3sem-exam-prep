@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d67dbf8e5993f82f",
+        "id": "ea575ad25da77196",
         "type": "tabs",
         "children": [
           {
-            "id": "054b767ef5df733f",
+            "id": "22a1f6e4c1ded754",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS-example/Многотерминальные системы.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS-example/Многотерминальные системы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OS-example/Многотерминальные системы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OS-example/Многотерминальные системы.md"
+              }
             }
           }
         ]
@@ -138,6 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "054b767ef5df733f",
-  "lastOpenFiles": []
+  "active": "a8bf63b78c4a1eb5",
+  "lastOpenFiles": [
+    "OS",
+    "README.md"
+  ]
 }
