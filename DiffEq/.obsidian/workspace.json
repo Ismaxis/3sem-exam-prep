@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "ea337fa51ef90615",
+    "type": "split",
+    "children": [
+      {
+        "id": "47df077fed0ce367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296890ad63abcf10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Системы уравнений/Теорема о множестве фундаментальных матриц.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c07d1c8f58fe92be",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c065660d446ffb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4902e0a8e7d71d3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bb0934d3b1cc03b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e270404f97d531b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.50909423828125
+  },
+  "right": {
+    "id": "3f541d708182e9cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25805816ecf8ce0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a86826e43d92c9d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Системы уравнений/Теорема о множестве фундаментальных матриц.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "60788a0649512a05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Системы уравнений/Теорема о множестве фундаментальных матриц.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef71e2aaea8da07a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13ea8a627b12cd43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Системы уравнений/Теорема о множестве фундаментальных матриц.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "296890ad63abcf10",
+  "lastOpenFiles": [
+    "Системы уравнений/Фундаментальная система решений.md",
+    "Системы уравнений/Теорема о множестве фундаментальных матриц.md",
+    "Системы уравнений/Линейная система.md",
+    "Системы уравнений/Формула Остроградского-Лиувилля для решений линейной однородной системы.md",
+    "Системы уравнений/Свойства вронскиана решений линейной однородной системы.md",
+    "Уравнения высшего порядка/Система, равносильная уравнению.md",
+    "Системы уравнений/Определитель Вронского.md",
+    "Системы уравнений/Нормальная система.md",
+    "Уравнения первого порядка/Теорема об общем решении уравнения с разделенными переменными.md",
+    "Уравнения первого порядка/Линейное уравнение первого порядка.md",
+    "Уравнения высшего порядка/Методы понижения порядка.md",
+    "Системы уравнений/Интегральное уравнение.md",
+    "Уравнения высшего порядка/Каноническое уравнение.md",
+    "Уравнения высшего порядка/Уравнение n-ого порядка.md",
+    "Основные понятия/Эквивалентность уравнений.md",
+    "Основные понятия",
+    "Основные понятия/Особое решение уравнения.md",
+    "Основные понятия/Особая точка уравнения.md",
+    "Основные понятия/Общий интеграл уравнения.md",
+    "Основные понятия/Общее решение уравнения.md",
+    "Основные понятия/Интегральная кривая.md",
+    "Основные понятия/Задача Коши.md",
+    "Уравнения первого порядка/Уравнение с разделяющимися переменными.md",
+    "Уравнения первого порядка/Уравнение с разделенными переменными.md",
+    "Уравнения первого порядка/Уравнение Риккати.md",
+    "Уравнения первого порядка/Уравнение первого порядка.md",
+    "Уравнения первого порядка/Уравнение в полных дифференциалах.md",
+    "Системы уравнений",
+    "Уравнения высшего порядка",
+    "Уравнения первого порядка"
+  ]
+}
